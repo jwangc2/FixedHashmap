@@ -1,0 +1,526 @@
+HTS_CAPACITY: 20
+HTS_SIZE: 100
+LOAD: 0.11
+Free Pointer -> HT[3]
+
+BUCKET[0] -> NULL
+BUCKET[1] -> NULL
+BUCKET[2] -> NULL
+BUCKET[3] -> HT[7]
+BUCKET[4] -> NULL
+BUCKET[5] -> NULL
+BUCKET[6] -> HT[2]
+BUCKET[7] -> HT[0]
+BUCKET[8] -> HT[1]
+BUCKET[9] -> NULL
+BUCKET[10] -> HT[5]
+BUCKET[11] -> NULL
+BUCKET[12] -> NULL
+BUCKET[13] -> NULL
+BUCKET[14] -> NULL
+BUCKET[15] -> NULL
+BUCKET[16] -> HT[6]
+BUCKET[17] -> NULL
+BUCKET[18] -> HT[10]
+BUCKET[19] -> NULL
+
+HT[0]:
+    Key: CRATE
+    Data: 1
+    Next: HT[4]
+
+HT[1]:
+    Key: DOOR
+    Data: 2
+    Next: HT[8]
+
+HT[2]:
+    Key: BED
+    Data: 3
+    Next: HT[9]
+
+HT[3]:
+    Key: SHEETS
+    Data: -1218444200
+    Next: HT[12]
+
+HT[4]:
+    Key: WINDOW
+    Data: 5
+    Next: HT[11]
+
+HT[5]:
+    Key: FAN
+    Data: 6
+    Next: NULL
+
+HT[6]:
+    Key: LIGHT
+    Data: 7
+    Next: NULL
+
+HT[7]:
+    Key: SINK
+    Data: 8
+    Next: NULL
+
+HT[8]:
+    Key: DRAWER
+    Data: 9
+    Next: NULL
+
+HT[9]:
+    Key: BOTTLE
+    Data: 10
+    Next: NULL
+
+HT[10]:
+    Key: NOTEBOOK
+    Data: 11
+    Next: NULL
+
+HT[11]:
+    Key: CLOTHES
+    Data: 12
+    Next: NULL
+
+HT[12]:
+    Key: 
+    Data: NO DATA
+    Next: HT[13]
+
+HT[13]:
+    Key: 
+    Data: NO DATA
+    Next: HT[14]
+
+HT[14]:
+    Key: 
+    Data: NO DATA
+    Next: HT[15]
+
+HT[15]:
+    Key: 
+    Data: NO DATA
+    Next: HT[16]
+
+HT[16]:
+    Key: 
+    Data: NO DATA
+    Next: HT[17]
+
+HT[17]:
+    Key: 
+    Data: NO DATA
+    Next: HT[18]
+
+HT[18]:
+    Key: 
+    Data: NO DATA
+    Next: HT[19]
+
+HT[19]:
+    Key: 
+    Data: NO DATA
+    Next: HT[20]
+
+HT[20]:
+    Key: 
+    Data: NO DATA
+    Next: HT[21]
+
+HT[21]:
+    Key: 
+    Data: NO DATA
+    Next: HT[22]
+
+HT[22]:
+    Key: 
+    Data: NO DATA
+    Next: HT[23]
+
+HT[23]:
+    Key: 
+    Data: NO DATA
+    Next: HT[24]
+
+HT[24]:
+    Key: 
+    Data: NO DATA
+    Next: HT[25]
+
+HT[25]:
+    Key: 
+    Data: NO DATA
+    Next: HT[26]
+
+HT[26]:
+    Key: 
+    Data: NO DATA
+    Next: HT[27]
+
+HT[27]:
+    Key: 
+    Data: NO DATA
+    Next: HT[28]
+
+HT[28]:
+    Key: 
+    Data: NO DATA
+    Next: HT[29]
+
+HT[29]:
+    Key: 
+    Data: NO DATA
+    Next: HT[30]
+
+HT[30]:
+    Key: 
+    Data: NO DATA
+    Next: HT[31]
+
+HT[31]:
+    Key: 
+    Data: NO DATA
+    Next: HT[32]
+
+HT[32]:
+    Key: 
+    Data: NO DATA
+    Next: HT[33]
+
+HT[33]:
+    Key: 
+    Data: NO DATA
+    Next: HT[34]
+
+HT[34]:
+    Key: 
+    Data: NO DATA
+    Next: HT[35]
+
+HT[35]:
+    Key: 
+    Data: NO DATA
+    Next: HT[36]
+
+HT[36]:
+    Key: 
+    Data: NO DATA
+    Next: HT[37]
+
+HT[37]:
+    Key: 
+    Data: NO DATA
+    Next: HT[38]
+
+HT[38]:
+    Key: 
+    Data: NO DATA
+    Next: HT[39]
+
+HT[39]:
+    Key: 
+    Data: NO DATA
+    Next: HT[40]
+
+HT[40]:
+    Key: 
+    Data: NO DATA
+    Next: HT[41]
+
+HT[41]:
+    Key: 
+    Data: NO DATA
+    Next: HT[42]
+
+HT[42]:
+    Key: 
+    Data: NO DATA
+    Next: HT[43]
+
+HT[43]:
+    Key: 
+    Data: NO DATA
+    Next: HT[44]
+
+HT[44]:
+    Key: 
+    Data: NO DATA
+    Next: HT[45]
+
+HT[45]:
+    Key: 
+    Data: NO DATA
+    Next: HT[46]
+
+HT[46]:
+    Key: 
+    Data: NO DATA
+    Next: HT[47]
+
+HT[47]:
+    Key: 
+    Data: NO DATA
+    Next: HT[48]
+
+HT[48]:
+    Key: 
+    Data: NO DATA
+    Next: HT[49]
+
+HT[49]:
+    Key: 
+    Data: NO DATA
+    Next: HT[50]
+
+HT[50]:
+    Key: 
+    Data: NO DATA
+    Next: HT[51]
+
+HT[51]:
+    Key: 
+    Data: NO DATA
+    Next: HT[52]
+
+HT[52]:
+    Key: 
+    Data: NO DATA
+    Next: HT[53]
+
+HT[53]:
+    Key: 
+    Data: NO DATA
+    Next: HT[54]
+
+HT[54]:
+    Key: 
+    Data: NO DATA
+    Next: HT[55]
+
+HT[55]:
+    Key: 
+    Data: NO DATA
+    Next: HT[56]
+
+HT[56]:
+    Key: 
+    Data: NO DATA
+    Next: HT[57]
+
+HT[57]:
+    Key: 
+    Data: NO DATA
+    Next: HT[58]
+
+HT[58]:
+    Key: 
+    Data: NO DATA
+    Next: HT[59]
+
+HT[59]:
+    Key: 
+    Data: NO DATA
+    Next: HT[60]
+
+HT[60]:
+    Key: 
+    Data: NO DATA
+    Next: HT[61]
+
+HT[61]:
+    Key: 
+    Data: NO DATA
+    Next: HT[62]
+
+HT[62]:
+    Key: 
+    Data: NO DATA
+    Next: HT[63]
+
+HT[63]:
+    Key: 
+    Data: NO DATA
+    Next: HT[64]
+
+HT[64]:
+    Key: 
+    Data: NO DATA
+    Next: HT[65]
+
+HT[65]:
+    Key: 
+    Data: NO DATA
+    Next: HT[66]
+
+HT[66]:
+    Key: 
+    Data: NO DATA
+    Next: HT[67]
+
+HT[67]:
+    Key: 
+    Data: NO DATA
+    Next: HT[68]
+
+HT[68]:
+    Key: 
+    Data: NO DATA
+    Next: HT[69]
+
+HT[69]:
+    Key: 
+    Data: NO DATA
+    Next: HT[70]
+
+HT[70]:
+    Key: 
+    Data: NO DATA
+    Next: HT[71]
+
+HT[71]:
+    Key: 
+    Data: NO DATA
+    Next: HT[72]
+
+HT[72]:
+    Key: 
+    Data: NO DATA
+    Next: HT[73]
+
+HT[73]:
+    Key: 
+    Data: NO DATA
+    Next: HT[74]
+
+HT[74]:
+    Key: 
+    Data: NO DATA
+    Next: HT[75]
+
+HT[75]:
+    Key: 
+    Data: NO DATA
+    Next: HT[76]
+
+HT[76]:
+    Key: 
+    Data: NO DATA
+    Next: HT[77]
+
+HT[77]:
+    Key: 
+    Data: NO DATA
+    Next: HT[78]
+
+HT[78]:
+    Key: 
+    Data: NO DATA
+    Next: HT[79]
+
+HT[79]:
+    Key: 
+    Data: NO DATA
+    Next: HT[80]
+
+HT[80]:
+    Key: 
+    Data: NO DATA
+    Next: HT[81]
+
+HT[81]:
+    Key: 
+    Data: NO DATA
+    Next: HT[82]
+
+HT[82]:
+    Key: 
+    Data: NO DATA
+    Next: HT[83]
+
+HT[83]:
+    Key: 
+    Data: NO DATA
+    Next: HT[84]
+
+HT[84]:
+    Key: 
+    Data: NO DATA
+    Next: HT[85]
+
+HT[85]:
+    Key: 
+    Data: NO DATA
+    Next: HT[86]
+
+HT[86]:
+    Key: 
+    Data: NO DATA
+    Next: HT[87]
+
+HT[87]:
+    Key: 
+    Data: NO DATA
+    Next: HT[88]
+
+HT[88]:
+    Key: 
+    Data: NO DATA
+    Next: HT[89]
+
+HT[89]:
+    Key: 
+    Data: NO DATA
+    Next: HT[90]
+
+HT[90]:
+    Key: 
+    Data: NO DATA
+    Next: HT[91]
+
+HT[91]:
+    Key: 
+    Data: NO DATA
+    Next: HT[92]
+
+HT[92]:
+    Key: 
+    Data: NO DATA
+    Next: HT[93]
+
+HT[93]:
+    Key: 
+    Data: NO DATA
+    Next: HT[94]
+
+HT[94]:
+    Key: 
+    Data: NO DATA
+    Next: HT[95]
+
+HT[95]:
+    Key: 
+    Data: NO DATA
+    Next: HT[96]
+
+HT[96]:
+    Key: 
+    Data: NO DATA
+    Next: HT[97]
+
+HT[97]:
+    Key: 
+    Data: NO DATA
+    Next: HT[98]
+
+HT[98]:
+    Key: 
+    Data: NO DATA
+    Next: HT[99]
+
+HT[99]:
+    Key: 
+    Data: NO DATA
+    Next: NULL
+

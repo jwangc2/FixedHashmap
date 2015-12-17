@@ -1,0 +1,60 @@
+Size of the HT? Hashtable is a go!
+Use SET [KEY] [VALUE] to set a value in the hashmap, where [VALUE] is an <integer>.
+Use GET [KEY] to get a value in the hashmap.
+Use DEL [KEY] to delete a value in the hashmap.
+Use PRINT [FILENAME] to write the content of the hashmap to a file.
+Use HELP to review these instructions.
+Use END to end the program.
+
+Your value [1] has been paired with the key [CRATE].
+
+Your value [2] has been paired with the key [DOOR].
+
+Your value [3] has been paired with the key [BED].
+
+Your value [4] has been paired with the key [SHEETS].
+
+Your value [5] has been paired with the key [WINDOW].
+
+Your value [6] has been paired with the key [FAN].
+
+Your value [7] has been paired with the key [LIGHT].
+
+Your value [8] has been paired with the key [SINK].
+
+Found a value of [8] for the key [SINK].
+
+Your value [9] has been paired with the key [DRAWER].
+
+Your value [10] has been paired with the key [BOTTLE].
+
+Your value [11] has been paired with the key [NOTEBOOK].
+
+Your value [12] has been paired with the key [CLOTHES].
+
+Successfully removed the key [SHEETS] with a value of [4].
+
+Printed the Hashtable to the file [testResult3A.txt].
+
+Successfully removed the key [CRATE] with a value of [1].
+
+Successfully removed the key [SINK] with a value of [8].
+
+Your value [13] has been paired with the key [SHEETS].
+
+Your value [14] has been paired with the key [SHEETS].
+
+Printed the Hashtable to the file [testResult3B.txt].
+
+
+Cleaning up hashtable...
+Cleaning an entry for [DOOR] with a value of [2].
+Cleaning an entry for [BED] with a value of [3].
+Cleaning an entry for [SHEETS] with a value of [14].
+Cleaning an entry for [WINDOW] with a value of [5].
+Cleaning an entry for [FAN] with a value of [6].
+Cleaning an entry for [LIGHT] with a value of [7].
+Cleaning an entry for [DRAWER] with a value of [9].
+Cleaning an entry for [BOTTLE] with a value of [10].
+Cleaning an entry for [NOTEBOOK] with a value of [11].
+Cleaning an entry for [CLOTHES] with a value of [12].

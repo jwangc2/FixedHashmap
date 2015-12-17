@@ -1,0 +1,61 @@
+HTS_CAPACITY: 5
+HTS_SIZE: 10
+LOAD: 0.7
+Free Pointer -> HT[7]
+
+BUCKET[0] -> HT[0]
+BUCKET[1] -> HT[1]
+BUCKET[2] -> HT[2]
+BUCKET[3] -> HT[3]
+BUCKET[4] -> HT[5]
+
+HT[0]:
+    Key: A
+    Data: 3
+    Next: HT[4]
+
+HT[1]:
+    Key: B
+    Data: 4
+    Next: HT[8]
+
+HT[2]:
+    Key: C
+    Data: 5
+    Next: NULL
+
+HT[3]:
+    Key: D
+    Data: 6
+    Next: NULL
+
+HT[4]:
+    Key: F
+    Data: 9
+    Next: NULL
+
+HT[5]:
+    Key: E
+    Data: 7
+    Next: NULL
+
+HT[6]:
+    Key: G
+    Data: -1218423656
+    Next: HT[9]
+
+HT[7]:
+    Key: Z
+    Data: -1218423728
+    Next: HT[6]
+
+HT[8]:
+    Key: G
+    Data: 6
+    Next: NULL
+
+HT[9]:
+    Key: 
+    Data: NO DATA
+    Next: NULL
+

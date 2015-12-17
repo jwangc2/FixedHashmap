@@ -1,0 +1,47 @@
+Size of the HT? Hashtable is a go!
+Use SET [KEY] [VALUE] to set a value in the hashmap, where [VALUE] is an <integer>.
+Use GET [KEY] to get a value in the hashmap.
+Use DEL [KEY] to delete a value in the hashmap.
+Use PRINT [FILENAME] to write the content of the hashmap to a file.
+Use HELP to review these instructions.
+Use END to end the program.
+
+Your value [3] has been paired with the key [A].
+
+Your value [4] has been paired with the key [B].
+
+Your value [5] has been paired with the key [C].
+
+Your value [6] has been paired with the key [D].
+
+Your value [9] has been paired with the key [F].
+
+Your value [7] has been paired with the key [E].
+
+Your value [3] has been paired with the key [G].
+
+Your value [10] has been paired with the key [Z].
+
+Your value [2] has been paired with the key [I].
+
+Successfully removed the key [G] with a value of [3].
+
+Successfully removed the key [Z] with a value of [10].
+
+Successfully removed the key [I] with a value of [2].
+
+Failed to remove the key [N].
+
+Your value [6] has been paired with the key [G].
+
+Printed the Hashtable to the file [testResult1.txt].
+
+
+Cleaning up hashtable...
+Cleaning an entry for [A] with a value of [3].
+Cleaning an entry for [B] with a value of [4].
+Cleaning an entry for [C] with a value of [5].
+Cleaning an entry for [D] with a value of [6].
+Cleaning an entry for [F] with a value of [9].
+Cleaning an entry for [E] with a value of [7].
+Cleaning an entry for [G] with a value of [6].
